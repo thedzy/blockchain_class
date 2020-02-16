@@ -5,7 +5,7 @@
 ------
 This is a very simple example of a blockchain (data) structure. Example file runs through all methods.
 
-_ Add a consensus algorithm to make it distributed or use it as a single source of truth._
+_Add a consensus algorithm to make it distributed or use it as a single source of truth._
 
 ```python
 class Blockchain(object):
