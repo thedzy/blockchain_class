@@ -72,10 +72,10 @@ class Blockchain(object):
         :return: (List) Blocks
         """
 
-		def get_chain_length(self):
+    def get_chain_length(self):
         """
         Return the chain length
-				:return: (int) Length
+        :return: (int) Length
         """
 
     def find_key_value(key, value, insensitive=False):
