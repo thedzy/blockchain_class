@@ -1,7 +1,7 @@
 
 
 # _class_ Blockchain
-## A very simple blockchain
+### A very simple blockchain
 ------
 This is a very simple example of a blockchain (data) structure. Example file runs through all methods.
 
